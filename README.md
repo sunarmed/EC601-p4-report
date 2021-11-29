@@ -5,6 +5,10 @@ How hard is it too duplicate a person?
 
 ## Trend
 What topics are the most important these two years?
+Choose the topics with the most societal impact
+
+## Security to the Society
+Why do we need security in our life? Security mean 
 
 ## Define
 what level of information is representative as an person?
